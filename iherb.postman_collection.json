@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "5a1e4382-3ce6-421e-bdd7-d58ee04179b3",
+		"name": "iherb",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "register/get userid",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		}
+	]
+}
