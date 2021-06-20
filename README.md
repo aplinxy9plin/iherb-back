@@ -48,3 +48,6 @@ npm start
 MONGO_URI=mongodbURL
 PORT=3000
 ```
+
+## Документация
+[https://documenter.getpostman.com/view/13110741/TzeZD5wh](https://documenter.getpostman.com/view/13110741/TzeZD5wh)
